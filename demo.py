@@ -1,4 +1,4 @@
 def sum(a, b):
     return (a+b)
 
-print(sum(5,2))
+print(sum(10,5))
